@@ -1,0 +1,114 @@
+.dekstop {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 100%;
+  min-width: 1920px;
+  min-height: 2904px;
+  position: relative;
+}
+
+.dekstop .rectangle {
+  position: absolute;
+  top: 2108px;
+  right: 0;
+  width: 1955px;
+  height: 796px;
+  background-color: #696766;
+}
+
+.dekstop .text-wrapper {
+  position: absolute;
+  top: 2230px;
+  left: 135px;
+  width: 660px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dekstop .jl-raya-cipacing-no {
+  position: absolute;
+  top: 2375px;
+  left: 135px;
+  width: 639px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dekstop .div {
+  position: absolute;
+  top: 2229px;
+  left: 1098px;
+  width: 533px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dekstop .informasi-fakultas {
+  position: absolute;
+  top: 2375px;
+  left: 1098px;
+  width: 573px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dekstop .p {
+  position: absolute;
+  top: 2845px;
+  left: 702px;
+  width: 553px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dekstop .line {
+  position: absolute;
+  top: 2807px;
+  left: 0;
+  width: 1920px;
+  height: 5px;
+  object-fit: cover;
+}
+
+.dekstop .berita-medali-silver {
+  position: absolute;
+  top: 153px;
+  left: 191px;
+  width: 1165px;
+  height: 775px;
+  aspect-ratio: 1.5;
+  object-fit: cover;
+}
+
+.dekstop .mahasiswa-fakultas {
+  position: absolute;
+  top: 1056px;
+  left: 166px;
+  width: 1580px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
